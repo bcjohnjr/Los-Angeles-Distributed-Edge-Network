@@ -1,0 +1,2 @@
+source,station,WMO,years_basis,mean_drybulb_C,min_drybulb_C,max_drybulb_C,mean_RH_pct,mean_wind_m_s,mean_GHI_W_m2
+California CZ2025 DEER weather files,Los Angeles International Airport,722950,TMY based on 2000-2020,17.2941,5.0,37.8,70.1526,3.20369,225.961
